@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WaferSample</string>
+    <string name="language">Language: %1$s</string>
+    <string name="currency">Currency: %1$s</string>
+</resources>
